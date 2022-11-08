@@ -1,0 +1,19 @@
+{
+    "name": "dkozlov/otus-package",
+    "homepage": "https://github.com/develop-dmitry/otus-package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dkozlov\\OtusPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Kozlov",
+            "email": "d.kozlov@intensa.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
